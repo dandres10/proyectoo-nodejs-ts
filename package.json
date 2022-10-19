@@ -1,0 +1,25 @@
+{
+  "name": "proyectoo-nodejs-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandres10/proyectoo-nodejs-ts.git"
+  },
+  "author": "MArlon Andres Leon Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandres10/proyectoo-nodejs-ts/issues"
+  },
+  "homepage": "https://github.com/dandres10/proyectoo-nodejs-ts#readme",
+  "dependencies": {
+    "@types/node": "^18.11.2",
+    "proyectoamatematicas": "github:dandres10/proyecto-1a-matematicas"
+  }
+}
